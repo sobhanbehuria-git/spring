@@ -34,7 +34,7 @@
 	<div class="container">
 
 		<div class="starter-template">
-			<h1>Welcome To Java</h1>
+			<h1>Hello Spring JAVA</h1>
 			<h2>Message: ${message}</h2>
 		</div>
 
