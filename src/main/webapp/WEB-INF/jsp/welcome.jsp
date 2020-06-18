@@ -34,7 +34,7 @@
 	<div class="container">
 
 		<div class="starter-template">
-			<h1>WELCOME TO JAVA</h1>
+			<h1>WELCOME TO JAVAWORLD</h1>
 			<h2>Message: ${message}</h2>
 		</div>
 
